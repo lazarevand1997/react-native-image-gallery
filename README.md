@@ -74,6 +74,7 @@ Prop | Description | Type | Default
 `scrollViewStyle` | Custom style for the `FlatList` component | `object` | `{}`
 `onSingleTapConfirmed` | Fired after a single tap | `function`
 `onLongPress` | Fired after a long press | `function`
+`enableScrollOnScale` | Allow to scroll then image scaled, default TRUE | `boolean`
 
 ## Scroll state and events
 
